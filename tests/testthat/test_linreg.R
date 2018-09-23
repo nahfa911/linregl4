@@ -1,3 +1,4 @@
+library(linregl4)
 context("linreg")
 
 data("iris")
