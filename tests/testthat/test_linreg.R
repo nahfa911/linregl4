@@ -1,6 +1,6 @@
 context("linreg")
 
-data("iris4")
+data("iris")
 
 Polygon <- setRefClass("Polygon", fields = c("sides"))
 square <- Polygon$new(sides = 4)
